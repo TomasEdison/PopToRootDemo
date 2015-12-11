@@ -1,0 +1,1 @@
+一个addChildViewController方法的应用实例.
