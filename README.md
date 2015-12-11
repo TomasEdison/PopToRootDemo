@@ -1,1 +1,1 @@
-Ò»¸öaddChildViewController·½·¨µÄÓ¦ÓÃÊµÀý.
+ä¸€ä¸ª addChildViewControlleræ–¹æ³•çš„åº”ç”¨å®žä¾‹
